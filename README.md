@@ -16,8 +16,7 @@ A simple typing speed test built with **HTML**, **CSS**, and **TypeScript** that
 
 ## 📸 Demo
 
-![Typing Speed Test Screenshot](screenshot.png)  
-*(Add a screenshot of your project here)*
+![Typing Speed Test Screenshot](./Assets/TypingSpeedTestApp-GoogleChrome2025-05-2719-01-22-ezgif.com-video-to-gif-converter.gif)  
 
 ---
 
