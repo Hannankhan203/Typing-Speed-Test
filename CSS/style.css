@@ -21,6 +21,11 @@ body {
     border-radius: 12px;
     box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);
     text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 1rem;
 }
 
 .quote {
@@ -43,6 +48,7 @@ body {
     display: flex;
     justify-content: space-between;
     margin-bottom: 1rem;
+    width: 100%;
 }
 
 .restart {
